@@ -11,10 +11,10 @@ All set up for you, just worry about coding your API.</p>
 
 ```sh
 # yarn
-$ yarn global bya-cli
+$ yarn global add bya-cli
 
 # npm
-$ npm -g bya-cli
+$ npm install -g bya-cli
 ```
 
 ## Commands
